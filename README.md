@@ -1,4 +1,4 @@
-Ravey's alacritty config
+## Ravey's alacritty config
 | OS | PATH |
 | :- | :--- |
 | Linux, MacOS | `$XDG_CONFIG_HOME/nvim`, `~/.config/nvim` |
