@@ -1,6 +1,6 @@
 [window]
 # opacity = 1.00
-opacity = 0.96
+opacity = 0.97
 dimensions = { columns = 107, lines = 38 }
 # position = {x = 100, y = 70}
 dynamic_title = false
